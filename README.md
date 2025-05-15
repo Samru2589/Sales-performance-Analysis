@@ -1,4 +1,4 @@
-Sales Performance Analysis 📊
+## **Sales Performance Analysis 📊**
 
 ## Project Overview
 This project focuses on analyzing a retail company's sales data to uncover insights into sales trends, top-selling products, and regional performance. The primary goal is to identify key growth opportunities and optimize business strategies.
